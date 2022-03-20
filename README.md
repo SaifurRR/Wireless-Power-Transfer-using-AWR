@@ -1,1 +1,3 @@
 # Antennas-and-Propagation-Project
+
+WPT uses Electro-magnetic wave energy to transfer energy from a power source (transmitters) to load (receiver) wirelessly. The system that incorporates this process is termed WPT. This particular research area holds a wide range of applications, which includes areas in smartphone technology, electric vehicle, wireless sensor network, medical implants, etc. This project outlines a proof of concept of WPT using AWR as a simulation tool. A simplistic model for near-field coupling was used to demonstrate the process. Furthermore, a comparative analysis between Dipole & Loop antenna was made, to justify which combinations as a transmitter and receiver unit yields a better Electro-coupling response.
